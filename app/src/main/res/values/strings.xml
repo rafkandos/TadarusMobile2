@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TadarusMobile2</string>
+    <string-array name="tempat_entries">
+        <item>Rumah</item>
+        <item>Masjid</item>
+        <item>Lain-lain</item>
+    </string-array>
+</resources>

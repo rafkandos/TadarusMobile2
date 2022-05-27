@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "899000832444",
+    "project_id": "tadarusmobile",
+    "storage_bucket": "tadarusmobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899000832444:android:48ae631d1a86026026dbb9",
+        "android_client_info": {
+          "package_name": "com.raffli.tadarusmobile2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899000832444-heq2aqoks200eeg24dc8o8k522iofnk8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpvFY8FMM0XExvve0kegm3pC96wySX6F8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899000832444-heq2aqoks200eeg24dc8o8k522iofnk8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
