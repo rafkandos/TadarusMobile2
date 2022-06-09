@@ -70,7 +70,7 @@ class MainActivity : AppCompatActivity() {
 
                         txtJuz.setText("Juz: " + lastTadarus.juz)
                         txtSurah.setText("Surat: " + lastTadarus.surat)
-                        txtAyat.setText("Ayat: " + lastTadarus.ayat)
+                        txtAyat.setText("Ayat terakhir: " + lastTadarus.ayat)
                         txtTempat.setText("Tempat tadarus: " + lastTadarus.tempat)
                     }
                     else {
